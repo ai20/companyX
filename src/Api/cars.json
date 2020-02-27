@@ -1,0 +1,193 @@
+{
+  "cars": [
+  {
+    "status": {
+      "availability": {
+        "msg": [
+          "Reserve",
+          "The Vehicle :",
+          "Available"
+        ],
+        "class": [
+          "absolute-top-right text-subtitle2 status",
+          "p-price t700 ls1",
+          "p-price-msrp"
+        ],
+        "style": "background: #26a69a"
+      }
+    },
+    "hiLight": "color: black",
+    "hover": "no-shadow",
+    "src": "../assets/cars/forsale/1.jpg",
+    "on_fire": "on_fire"
+  },
+  {
+    "status": {
+      "availability": {
+        "msg": [
+          "Sorry Vehicle",
+          "Has Been",
+          "Sold"
+        ],
+        "class": [
+          "absolute-top-right text-subtitle2 status",
+          "p-price t700 ls1",
+          "p-price-msrp"
+        ],
+        "style": ""
+      }
+    },
+    "hiLight": "color: black",
+    "hover": "no-shadow",
+    "src": "../assets/cars/forsale/2.jpg",
+    "on_fire": ""
+  },
+  {
+    "status": {
+      "availability": {
+        "msg": [
+          "Vehicle",
+          "Is Reserved",
+          "Contingent"
+        ],
+        "class": [
+          "absolute-top-right text-subtitle2 status",
+          "p-price t700 ls1",
+          "p-price-msrp"
+        ],
+        "style": "background: #ff9800"
+      }
+    },
+    "hiLight": "color: black",
+    "hover": "no-shadow",
+    "src": "../assets/cars/forsale/3.jpg",
+    "on_fire": ""
+  },
+  {
+    "status": {
+      "availability": {
+        "msg": [
+          "Vehicle",
+          "Is : ",
+          "HOT!"
+        ],
+        "class": [
+          "absolute-top-right text-subtitle2 status",
+          "p-price t700 ls1",
+          "p-price-msrp"
+        ],
+        "style": "background: rgb(244, 67, 54)"
+      }
+    },
+    "hiLight": "color: black",
+    "hover": "no-shadow",
+    "src": "../assets/cars/forsale/4.jpg",
+    "on_fire": "on-fire"
+  },
+  {
+    "status": {
+      "availability": {
+        "msg": [
+          "Vehicle",
+          "Is Reserved",
+          "Contingent"
+        ],
+        "class": [
+          "absolute-top-right text-subtitle2 status",
+          "p-price t700 ls1",
+          "p-price-msrp"
+        ],
+        "style": "background: #ff9800"
+      }
+    },
+    "hiLight": "color: black",
+    "hover": "no-shadow",
+    "src": "../assets/cars/forsale/5.jpg",
+    "on_fire": ""
+  },
+  {
+    "status": {
+      "availability": {
+        "msg": [
+          "Reserve",
+          "The Vehicle :",
+          "Available"
+        ],
+        "class": [
+          "absolute-top-right text-subtitle2 status",
+          "p-price t700 ls1",
+          "p-price-msrp"
+        ],
+        "style": "background: #26a69a"
+      }
+    },
+    "hiLight": "color: black",
+    "hover": "no-shadow",
+    "src": "../assets/cars/forsale/6.jpg",
+    "on_fire": ""
+  },
+  {
+    "status": {
+      "availability": {
+        "msg": [
+          "Reserve",
+          "The Vehicle :",
+          "Available"
+        ],
+        "class": [
+          "absolute-top-right text-subtitle2 status",
+          "p-price t700 ls1",
+          "p-price-msrp"
+        ],
+        "style": "background: #26a69a"
+      }
+    },
+    "hiLight": "color: black",
+    "hover": "no-shadow",
+    "src": "../assets/cars/forsale/1.jpg",
+    "on_fire": ""
+  },
+  {
+    "status": {
+      "availability": {
+        "msg": [
+          "Reserve",
+          "The Vehicle :",
+          "Available"
+        ],
+        "class": [
+          "absolute-top-right text-subtitle2 status",
+          "p-price t700 ls1",
+          "p-price-msrp"
+        ],
+        "style": "background: #26a69a"
+      }
+    },
+    "hiLight": "color: black",
+    "hover": "no-shadow",
+    "src": "../assets/cars/forsale/2.jpg",
+    "on_fire": ""
+  },
+  {
+    "status": {
+      "availability": {
+        "msg": [
+          "Reserve",
+          "The Vehicle :",
+          "Available"
+        ],
+        "class": [
+          "absolute-top-right text-subtitle2 status",
+          "p-price t700 ls1",
+          "p-price-msrp"
+        ],
+        "style": "background: #26a69a"
+      }
+    },
+    "hiLight": "color: black",
+    "hover": "no-shadow",
+    "src": "../assets/cars/forsale/3.jpg",
+    "on_fire": ""
+  }
+]
+}

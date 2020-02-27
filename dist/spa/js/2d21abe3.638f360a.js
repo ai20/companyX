@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["2d21abe3"],{bd8c:function(e,t,n){"use strict";n.r(t);var a=function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("vertical-tabs")},c=[],s=n("4782"),r={name:"test",components:{VerticalTabs:s["a"]}},l=r,o=n("2877"),i=Object(o["a"])(l,a,c,!1,null,"1614834e",null);t["default"]=i.exports}}]);
