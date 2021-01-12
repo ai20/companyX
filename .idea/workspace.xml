@@ -2,13 +2,208 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e8cd2df-e045-47e8-80bb-8bf490f7e4b3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.quasar/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/.quasar/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.quasar/client-entry.js" beforeDir="false" afterPath="$PROJECT_DIR$/.quasar/client-entry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/spa/css/4aad0d93.9c2ba29c.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/spa/css/5ce98d4e.be52385f.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/spa/css/664c07ff.5c78d948.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/spa/css/app.9f384ce1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/spa/css/ddf80f20.94c922dd.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/spa/css/e7e275fa.249b6b6a.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/spa/fonts/KFOkCnqEu92Fr1MmgVxIIzQ.5cb7edfc.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/spa/fonts/KFOlCnqEu92Fr1MmEU9fBBc-.87284894.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/spa/fonts/KFOlCnqEu92Fr1MmSU5fBBc-.b00849e0.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/spa/fonts/KFOlCnqEu92Fr1MmWUlfBBc-.adcde98f.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/spa/fonts/KFOlCnqEu92Fr1MmYUtfBBc-.bb1e4dc6.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/spa/fonts/KFOmCnqEu92Fr1Mu4mxM.60fa3c06.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/spa/fonts/fa-brands-400.7559b377.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/spa/fonts/fa-brands-400.fe9d62e0.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/spa/fonts/fa-regular-400.e07d9e40.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/spa/fonts/fa-regular-400.e5770f98.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/spa/fonts/fa-solid-900.4bced7c4.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/spa/fonts/fa-solid-900.b5cf8ae2.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/spa/fonts/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.29b882f0.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/spa/fonts/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.0509ab09.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/spa/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/spa/js/2d0efc42.a377d02e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/spa/js/2d21abe3.638f360a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/spa/js/4aad0d93.69bd7917.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/spa/js/4b47640d.1adfa8e2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/spa/js/5ce98d4e.c34d2474.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/spa/js/664c07ff.fad8c0be.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/spa/js/app.4e61d391.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/spa/js/ddf80f20.11fbe15d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/spa/js/e7e275fa.636662ae.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/spa/js/runtime.f6299022.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/spa/js/vendor.6660ba57.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/spa/statics/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/spa/statics/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/spa/statics/25015793881_f64c63b12b_b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/spa/statics/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/spa/statics/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/spa/statics/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/spa/statics/MaxPixel.net-Sports-Car-V10-Audi-Business-Woman-R8-829498 .jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/spa/statics/MaxPixel.net-Transportation-Vehicle-Sedan-Car-Interior-2607626.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/spa/statics/app-logo-128x128.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/spa/statics/bg1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/spa/statics/car.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/spa/statics/carZumSM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/spa/statics/four.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/spa/statics/icons/apple-icon-120x120.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/spa/statics/icons/apple-icon-152x152.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/spa/statics/icons/apple-icon-167x167.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/spa/statics/icons/apple-icon-180x180.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/spa/statics/icons/favicon-16x16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/spa/statics/icons/favicon-32x32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/spa/statics/icons/favicon-96x96.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/spa/statics/icons/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/spa/statics/icons/icon-128x128.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/spa/statics/icons/icon-192x192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/spa/statics/icons/icon-256x256.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/spa/statics/icons/icon-384x384.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/spa/statics/icons/icon-512x512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/spa/statics/icons/ms-icon-144x144.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/spa/statics/icons/safari-pinned-tab.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/spa/statics/quasar-logo-full.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/spa/statics/sad.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@quasar/app/lib/webpack/ssr/template.ssr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@quasar/app/templates/app/babelrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@quasar/app/templates/app/boot.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@quasar/app/templates/app/component.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@quasar/app/templates/app/empty.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@quasar/app/templates/app/layout.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@quasar/app/templates/app/page.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@quasar/app/templates/app/store/actions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@quasar/app/templates/app/store/getters.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@quasar/app/templates/app/store/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@quasar/app/templates/app/store/mutations.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@quasar/app/templates/app/store/state.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@quasar/extras/.postcssrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@quasar/extras/material-icons-outlined/update.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@quasar/extras/material-icons-round/update.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@quasar/extras/material-icons-sharp/update.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/ajax-bar/ajax-bar.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/avatar/avatar.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/badge/badge.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/banner/banner.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/bar/bar.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/breadcrumbs/breadcrumbs.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/btn/QBtnDropdown.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/btn/QBtnDropdown.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/btn/QBtnGroup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/btn/QBtnGroup.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/btn/QBtnToggle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/btn/QBtnToggle.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/btn/__btn-mixin.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/btn/btn-default.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/btn/btn-dropdown.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/btn/btn-group.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/btn/btn-mixin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/card/card.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/carousel/carousel.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/chat/chat.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/checkbox/checkbox.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/chip/chip.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/circular-progress/circular-progress.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/color/color.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/datetime/QDate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/datetime/QDate.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/datetime/QTime.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/datetime/QTime.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/datetime/date.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/datetime/datetime-mixin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/datetime/datetime-mixin.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/datetime/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/datetime/time.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/dialog-bottom-sheet/bottom-sheet.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/dialog-plugin/dialog-plugin.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/dialog/dialog.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/editor/editor.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/fab/fab-mixin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/fab/fab.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/field/field.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/form/form.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/img/img.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/inner-loading/inner-loading.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/input/input.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/knob/knob.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/layout/QDrawer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/layout/QDrawer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/layout/QFooter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/layout/QFooter.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/layout/QHeader.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/layout/QHeader.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/layout/QPage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/layout/QPage.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/layout/QPageContainer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/layout/QPageContainer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/layout/QPageSticky.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/layout/QPageSticky.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/layout/layout.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/linear-progress/linear-progress.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/list/QExpansionItem.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/list/QExpansionItem.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/list/QItem.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/list/QItem.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/list/QItemLabel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/list/QItemLabel.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/list/QItemSection.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/list/QItemSection.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/list/QList.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/list/QList.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/list/QSlideItem.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/list/QSlideItem.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/list/expansion-item.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/list/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/list/list.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/list/slide-item.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/menu/menu-tree.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/menu/menu.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/observer/QResizeObserver.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/observer/QResizeObserver.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/observer/QScrollObserver.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/observer/QScrollObserver.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/observer/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/option-group/option-group.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/pagination/pagination.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/parallax/parallax.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/popup-edit/popup-edit.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/pull-to-refresh/pull-to-refresh.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/radio/radio.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/rating/rating.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/scroll-area/scroll-area.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/select/select.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/separator/separator.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/slider/slider.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/space/space.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/spinner/spinner.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/splitter/splitter.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/stepper/stepper.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/tab-panels/tab-panels.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/table/QMarkupTable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/table/QMarkupTable.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/table/table.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/tabs/tabs.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/timeline/timeline.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/toggle/toggle.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/toolbar/toolbar.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/tooltip/tooltip.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/tree/tree.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/uploader/uploader.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/components/video/video.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/css/critical.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/directives/ripple.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/plugins/loading.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/plugins/notify.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/quasar/src/polyfills.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/cards/cards.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/cards/cards.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/miniComponents/Cards/altercards.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/miniComponents/Cards/altercards.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.template.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.template.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layouts/MyLayout.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/MyLayout.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/Sell/SellOrTrade.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Sell/SellOrTrade.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/store/CarVin/actions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/CarVin/actions.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/CarVin/mutations.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/CarVin/mutations.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/node_modules/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,20 +218,49 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pages/Buy/Buy.vue">
+        <entry file="file://$PROJECT_DIR$/src/pages/Sell/SellOrTrade.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="382">
-              <caret line="162" column="53" lean-forward="true" selection-start-line="162" selection-start-column="53" selection-end-line="162" selection-end-column="53" />
+            <state relative-caret-position="184">
+              <caret line="373" column="44" selection-start-line="373" selection-start-column="44" selection-end-line="373" selection-end-column="44" />
               <folding>
                 <element signature="n#style#0;n#q-carousel-control#0;n#template#0;n#q-carousel#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#q-carousel-control#0;n#template#0;n#q-carousel#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-                <element signature="n#div#0;n#q-carousel-control#0;n#template#0;n#q-carousel#0;n#div#0;n#template#0;n#!!top" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#q-carousel-control#0;n#template#0;n#q-carousel#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#q-btn-dropdown#0;n#div#1;n#div#0;n#div#0;n#div#0;n#q-carousel-control#0;n#template#0;n#q-carousel#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#q-btn-dropdown#0;n#div#2;n#div#0;n#div#0;n#div#0;n#q-carousel-control#0;n#template#0;n#q-carousel#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#q-btn-dropdown#0;n#div#3;n#div#0;n#div#0;n#div#0;n#q-carousel-control#0;n#template#0;n#q-carousel#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#vertical-tabs#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#q-carousel-control#0;n#template#0;n#q-carousel#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#q-form#0;n#div#1;n#div#0;n#q-carousel-control#0;n#template#0;n#q-carousel#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#!!top" />
+                <element signature="e#11857#11890#0" expanded="true" />
+                <element signature="e#12484#12882#0" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/layouts/MyLayout.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="268">
+              <caret line="243" column="44" selection-start-line="243" selection-start-column="44" selection-end-line="243" selection-end-column="44" />
+              <folding>
+                <element signature="e#116#413#0" />
+                <element signature="e#421#595#0" />
+                <element signature="n#style#0;n#q-img#0;n#q-toolbar#0;n#q-header#0;n#q-layout#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="e#1034#3480#0" />
+                <element signature="n#style#0;n#h6#0;n#div#0;n#q-toolbar#0;n#q-footer#0;n#q-layout#0;n#template#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/miniComponents/Cards/altercards.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="1040" column="19" selection-start-line="1040" selection-start-column="19" selection-end-line="1040" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -53,8 +277,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/cards/cards.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="12735">
-              <caret line="1054" column="13" selection-start-line="1054" selection-start-column="13" selection-end-line="1054" selection-end-column="13" />
+            <state relative-caret-position="289">
+              <caret line="1044" column="44" selection-start-line="1044" selection-start-column="44" selection-end-line="1044" selection-end-column="44" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#q-card-section#0;n#q-card#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
                 <element signature="e#47914#47957#0" expanded="true" />
@@ -66,15 +290,39 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/store/CarInventory/getters.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/store/CarInventory/mutations.js">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret column="42" selection-start-column="42" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/store/CarVin/actions.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="26" column="11" lean-forward="true" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/quasar.conf.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1656">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.eslintrc.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="52" column="74" lean-forward="true" selection-start-line="52" selection-start-column="74" selection-end-line="52" selection-end-column="74" />
             </state>
           </provider>
         </entry>
@@ -100,7 +348,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>heading</find>
       <find>dialog</find>
       <find>table</find>
       <find>on-fire</find>
@@ -130,6 +377,7 @@
       <find>click</find>
       <find>Click</find>
       <find>to</find>
+      <find>console</find>
     </findStrings>
     <replaceStrings>
       <replace>Comapny X</replace>
@@ -148,7 +396,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/components/Timeline.vue" />
         <option value="$PROJECT_DIR$/src/components/Form/Calculator.vue" />
         <option value="$PROJECT_DIR$/src/components/Table/Details/Details.vue" />
         <option value="$PROJECT_DIR$/src/components/Table/Inspection/Inspection.vue" />
@@ -181,7 +428,6 @@
         <option value="$PROJECT_DIR$/src/components/Dialogue/Dialogue.vue" />
         <option value="$PROJECT_DIR$/src/components/vertical_tabs/tabs/Luxury.vue" />
         <option value="$PROJECT_DIR$/src/components/miniComponents/Cards/cards.vue" />
-        <option value="$PROJECT_DIR$/src/components/miniComponents/Cards/altercards.vue" />
         <option value="$PROJECT_DIR$/src/components/Dialogue/Carousel.vue" />
         <option value="$PROJECT_DIR$/src/store/CarInventory/actions.js" />
         <option value="$PROJECT_DIR$/src/store/CarInventory/getters.js" />
@@ -191,13 +437,15 @@
         <option value="$PROJECT_DIR$/src/pages/Buy/Buy.vue" />
         <option value="$PROJECT_DIR$/src/pages/Credit/Loan.vue" />
         <option value="$PROJECT_DIR$/src/pages/Index.vue" />
-        <option value="$PROJECT_DIR$/src/layouts/MyLayout.vue" />
         <option value="$PROJECT_DIR$/src/store/CarVin/carVin.js" />
         <option value="$PROJECT_DIR$/src/store/CarVin/state.js" />
         <option value="$PROJECT_DIR$/src/store/CarVin/mutations.js" />
+        <option value="$PROJECT_DIR$/src/store/CarVin/getters.js" />
+        <option value="$PROJECT_DIR$/.eslintrc.js" />
         <option value="$PROJECT_DIR$/src/store/CarVin/actions.js" />
         <option value="$PROJECT_DIR$/src/pages/Sell/SellOrTrade.vue" />
-        <option value="$PROJECT_DIR$/src/store/CarVin/getters.js" />
+        <option value="$PROJECT_DIR$/src/components/miniComponents/Cards/altercards.vue" />
+        <option value="$PROJECT_DIR$/src/layouts/MyLayout.vue" />
         <option value="$PROJECT_DIR$/src/components/cards/cards.vue" />
       </list>
     </option>
@@ -230,12 +478,6 @@
               <item name="carzum" type="b2602c69:ProjectViewProjectNode" />
               <item name="carzum" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Api" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="carzum" type="b2602c69:ProjectViewProjectNode" />
-              <item name="carzum" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -256,29 +498,13 @@
               <item name="carzum" type="b2602c69:ProjectViewProjectNode" />
               <item name="carzum" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="vertical_tabs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="carzum" type="b2602c69:ProjectViewProjectNode" />
-              <item name="carzum" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="vertical_tabs" type="462c0819:PsiDirectoryNode" />
-              <item name="tabs" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="carzum" type="b2602c69:ProjectViewProjectNode" />
               <item name="carzum" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="carzum" type="b2602c69:ProjectViewProjectNode" />
-              <item name="carzum" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="Buy" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="carzum" type="b2602c69:ProjectViewProjectNode" />
@@ -292,13 +518,6 @@
               <item name="carzum" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="store" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="carzum" type="b2602c69:ProjectViewProjectNode" />
-              <item name="carzum" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="store" type="462c0819:PsiDirectoryNode" />
-              <item name="CarInventory" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="carzum" type="b2602c69:ProjectViewProjectNode" />
@@ -543,12 +762,12 @@
       <workItem from="1588174884486" duration="6460000" />
       <workItem from="1595882429835" duration="4000" />
       <workItem from="1601493657996" duration="2550000" />
-      <workItem from="1610314977361" duration="34928000" />
+      <workItem from="1610314977361" duration="35998000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1054478000" />
+    <option name="totallyTimeSpent" value="1055548000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="27" width="1920" height="971" extended-state="6" />
@@ -557,7 +776,7 @@
       <window_info id="Favorites" order="0" sideWeight="0.50143677" side_tool="true" weight="0.12966916" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="3" sideWeight="0.49856323" visible="true" weight="0.16915688" />
+      <window_info active="true" content_ui="combo" id="Project" order="3" sideWeight="0.49856323" visible="true" weight="0.16915688" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3269461" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -569,7 +788,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3289941" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50213444" side_tool="true" weight="0.17278107" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49786553" weight="0.19401197" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49786553" visible="true" weight="0.5281437" />
       <window_info anchor="bottom" id="Command Line Tools Console" order="12" weight="0.3289941" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -604,9 +823,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/assets/1.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/assets/2.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -677,45 +893,17 @@
     <entry file="file://$PROJECT_DIR$/.postcssrc.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/.eslintrc.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-299" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.stylintrc">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/vertical_tabs/tabs/AllStock.vue">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/quasar.conf.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/babel.config.js">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/layouts/MyLayout.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1770">
-          <caret line="198" column="55" selection-start-line="198" selection-start-column="55" selection-end-line="198" selection-end-column="55" />
-          <folding>
-            <element signature="e#116#413#0" />
-            <element signature="e#421#595#0" />
-            <element signature="n#style#0;n#q-img#0;n#q-toolbar#0;n#q-header#0;n#q-layout#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="e#1034#3480#0" />
-            <element signature="n#style#0;n#h6#0;n#div#0;n#q-toolbar#0;n#q-footer#0;n#q-layout#0;n#template#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/router/index.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -838,38 +1026,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/store/CarVin/actions.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/Sell/SellOrTrade.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="635">
-          <caret line="362" column="25" lean-forward="true" selection-start-line="362" selection-start-column="25" selection-end-line="362" selection-end-column="25" />
-          <folding>
-            <element signature="n#style#0;n#q-carousel-control#0;n#template#0;n#q-carousel#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#q-carousel-control#0;n#template#0;n#q-carousel#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#q-form#0;n#div#1;n#div#0;n#q-carousel-control#0;n#template#0;n#q-carousel#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#!!top" />
-            <element signature="e#11857#11890#0" expanded="true" />
-            <element signature="e#12484#12882#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/Buy/Buy.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="382">
-          <caret line="162" column="53" lean-forward="true" selection-start-line="162" selection-start-column="53" selection-end-line="162" selection-end-column="53" />
+          <caret line="162" column="53" selection-start-line="162" selection-start-column="53" selection-end-line="162" selection-end-column="53" />
           <folding>
             <element signature="n#style#0;n#q-carousel-control#0;n#template#0;n#q-carousel#0;n#div#0;n#template#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#q-carousel-control#0;n#template#0;n#q-carousel#0;n#div#0;n#template#0;n#!!top" expanded="true" />
@@ -917,10 +1077,75 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/quasar.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1656">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.eslintrc.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="52" column="74" lean-forward="true" selection-start-line="52" selection-start-column="74" selection-end-line="52" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/store/CarVin/actions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="26" column="11" lean-forward="true" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/Sell/SellOrTrade.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="373" column="44" selection-start-line="373" selection-start-column="44" selection-end-line="373" selection-end-column="44" />
+          <folding>
+            <element signature="n#style#0;n#q-carousel-control#0;n#template#0;n#q-carousel#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#q-carousel-control#0;n#template#0;n#q-carousel#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#q-form#0;n#div#1;n#div#0;n#q-carousel-control#0;n#template#0;n#q-carousel#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#!!top" />
+            <element signature="e#11857#11890#0" expanded="true" />
+            <element signature="e#12484#12882#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/miniComponents/Cards/altercards.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="1040" column="19" selection-start-line="1040" selection-start-column="19" selection-end-line="1040" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/layouts/MyLayout.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="243" column="44" selection-start-line="243" selection-start-column="44" selection-end-line="243" selection-end-column="44" />
+          <folding>
+            <element signature="e#116#413#0" />
+            <element signature="e#421#595#0" />
+            <element signature="n#style#0;n#q-img#0;n#q-toolbar#0;n#q-header#0;n#q-layout#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="e#1034#3480#0" />
+            <element signature="n#style#0;n#h6#0;n#div#0;n#q-toolbar#0;n#q-footer#0;n#q-layout#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/cards/cards.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12735">
-          <caret line="1054" column="13" selection-start-line="1054" selection-start-column="13" selection-end-line="1054" selection-end-column="13" />
+        <state relative-caret-position="289">
+          <caret line="1044" column="44" selection-start-line="1044" selection-start-column="44" selection-end-line="1044" selection-end-column="44" />
           <folding>
             <element signature="n#style#0;n#div#0;n#q-card-section#0;n#q-card#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
             <element signature="e#47914#47957#0" expanded="true" />

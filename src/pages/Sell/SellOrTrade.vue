@@ -355,6 +355,7 @@ export default {
         icon: 'cloud_done',
         message: 'Submitted'
       })
+      // eslint-disable-next-line no-console
       console.log(this.getVehicle('zzzzz'))
     },
     onReset () {
@@ -370,6 +371,7 @@ export default {
     slowGetter (data) {
       // console.log('get')
       // console.log(Store)
+      // eslint-disable-next-line no-console
       console.log(Store.getters.getCarInfo)
       return Store.getters.getCarInfo
     }

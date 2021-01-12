@@ -23,7 +23,7 @@ import '@quasar/extras/material-icons/material-icons.css'
 
 
 
-// We load Quasar stylus files
+// We load Quasar stylesheet file
 import 'quasar/dist/quasar.styl'
 
 
@@ -53,14 +53,22 @@ import qboot_Bootaxios from 'boot/axios'
 
 
 
-const { app, store, router } = createApp()
-
-
-
 async function start () {
+  const { app, store, router } = await createApp()
+
   
+
+  
+  let routeUnchanged = true
+  const redirect = url => {
+    routeUnchanged = false
+    window.location.href = url
+  }
+
+  const urlPath = window.location.href.replace(window.location.origin, '')
   const bootFiles = [qboot_Booti18n,qboot_Bootaxios]
-  for (let i = 0; i < bootFiles.length; i++) {
+
+  for (let i = 0; routeUnchanged === true && i < bootFiles.length; i++) {
     if (typeof bootFiles[i] !== 'function') {
       continue
     }
@@ -71,7 +79,9 @@ async function start () {
         router,
         store,
         Vue,
-        ssrContext: null
+        ssrContext: null,
+        redirect,
+        urlPath
       })
     }
     catch (err) {
@@ -84,6 +94,10 @@ async function start () {
       return
     }
   }
+
+  if (routeUnchanged === false) {
+    return
+  }
   
 
   
@@ -92,7 +106,11 @@ async function start () {
 
     
 
+    
       new Vue(app)
+    
+
+    
 
     
 

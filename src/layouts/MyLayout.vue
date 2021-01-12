@@ -213,6 +213,7 @@ export default {
   methods: {
     openURL,
     navigate () {
+      // eslint-disable-next-line no-console
       console.log(this.$router)
       // console.log(this.model)
       this.$router.push(this.model)
@@ -232,17 +233,22 @@ export default {
       var d = document.documentElement
       var offset = d.scrollTop + window.innerHeight
       var height = d.offsetHeight
-
+      // eslint-disable-next-line no-console
       console.log('offset = ' + offset)
+      // eslint-disable-next-line no-console
       console.log('height = ' + height)
       var f = Math.round(offset)
       var h = height - 1
+      // eslint-disable-next-line no-console
       console.log('f = ' + f)
+      // eslint-disable-next-line no-console
       console.log('h = ' + h)
       if (f < h / 1.1) {
+        // eslint-disable-next-line no-console
         console.log('At the bottom')
         this.footerState = false
       } else if (f >= h) {
+        // eslint-disable-next-line no-console
         console.log('At the bottom')
         this.footerState = true
       }

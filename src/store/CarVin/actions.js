@@ -24,6 +24,7 @@ function setCarInfo (context, data) {
     })
     .catch(function (error) {
       // handle error
+      // eslint-disable-next-line no-console
       console.log(error)
     })
     .then(function (response) {

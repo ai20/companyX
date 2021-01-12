@@ -1011,7 +1011,6 @@ export default {
       this.arrObj[num].hiLight = ' color: #31ccec' // .splice(num, num + 1, ' color: #31ccec')
       // hack. Mouse over for some reason activates the Dialogue pop up in che child component. this will fix it.
       // this.initialDialogue = false
-      console.log('test')
     },
     mouseleave: function (num, event) {
       this.arrObj[num].hover = 'no-shadow' // splice(num, num + 1, 'shadow-15')
@@ -1040,7 +1039,6 @@ export default {
       }
     },
     slowGetter () {
-      console.log('timeout')
       this.Obj = Store.getters.getCarInventory
     },
     timeOut () {

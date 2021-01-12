@@ -1011,6 +1011,7 @@ export default {
       this.arrObj[num].hiLight = ' color: #31ccec' // .splice(num, num + 1, ' color: #31ccec')
       // hack. Mouse over for some reason activates the Dialogue pop up in che child component. this will fix it.
       // this.initialDialogue = false
+      // eslint-disable-next-line no-console
       console.log('test')
     },
     mouseleave: function (num, event) {
@@ -1041,6 +1042,7 @@ export default {
       }
     },
     slowGetter () {
+      // eslint-disable-next-line no-console
       console.log('timeout')
       this.Obj = Store.getters.getCarInventory
     },
