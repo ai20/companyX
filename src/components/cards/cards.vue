@@ -1,5 +1,5 @@
 <template>
- <div class="q-pa-md row items-start ">
+ <div class="q-pa-md row items-start " >
    <div v-for="(obj ,index) in Obj" :key="index"  class="card" :class="offSet(index)" @click="click">
      <q-card v-on:mouseover="mouseover(index)"
              v-on:mouseleave="mouseleave(index)"
@@ -1053,12 +1053,6 @@ export default {
     this.timeOut()
   },
   computed: {
-    /*    cars () {
-      Store.dispatch('setCarInventory', 'currentstock')
-      console.log('test')
-      this.Obj = Store.getters.getCarInventory
-      return this.Obj
-    }, */
     layout () {
       return this.$q.screen.lt.sm ? 'dense' : (this.$q.screen.lt.md ? 'comfortable' : 'loose')
     },

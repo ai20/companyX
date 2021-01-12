@@ -367,7 +367,10 @@ export default {
       // return Store.getters.getCarInfo
       return setTimeout(function () { this.slowGetter() }.bind(this), 100)
     },
-    slowGetter () {
+    slowGetter (data) {
+      // console.log('get')
+      // console.log(Store)
+      console.log(Store.getters.getCarInfo)
       return Store.getters.getCarInfo
     }
   },

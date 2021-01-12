@@ -1,7 +1,7 @@
-export { setCarInfo }
+export { SET_CAR_INFO }
 
-function setCarInfo (state, data) {
-  console.log('wwwww')
+function SET_CAR_INFO (state, data) {
+  state.car = data
   // Live Version
   // Needed to bypass the cors error call back during preflight api call
   /* const proxyurl = 'https://cors-anywhere.herokuapp.com/'
@@ -15,7 +15,7 @@ function setCarInfo (state, data) {
   }) */
   // End of Live version
   // Test Version
-  const proxyurl = ''
+  /*  const proxyurl = ''
   const url = '../../Api/vinDecoder.json'
   fetch(proxyurl + url, {
     headers: new Headers({
@@ -36,5 +36,30 @@ function setCarInfo (state, data) {
     })
     .catch(function () {
       this.dataError = true
+    })  */
+  // Make a request for a user with a given ID
+  /*  axios.get('../../Api/vinDecoder.json', {
+      headers: {
+        'content-type': 'application/json',
+        'Accept': 'application/json',
+        'api-key': '9038-203809340-98'
+      },
+      params: {
+        ID: 12345
+      }
     })
+      .then(function (response) {
+        // handle success
+        console.log(response)
+        state.car = response.data.data
+      })
+      .catch(function (error) {
+        // handle error
+        console.log(error)
+      })
+      .then(function (response) {
+        // always executed
+        // state.car = json.data
+        console.log(state.car)
+      }) */
 }
