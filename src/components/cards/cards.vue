@@ -1047,7 +1047,7 @@ export default {
       this.Obj = Store.getters.getCarInventory
     },
     timeOut () {
-      setTimeout(function () { this.slowGetter() }.bind(this), 100)
+      setTimeout(function () { this.slowGetter() }.bind(this), 10000)
     }
   },
   mounted () {
