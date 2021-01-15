@@ -272,7 +272,6 @@ export default {
   name: 'Loan',
   data () {
     return {
-      lorem: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
       slide: 1,
       img: '../assets/four.jpg',
       autoplay: false,

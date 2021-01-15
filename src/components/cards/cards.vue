@@ -770,6 +770,7 @@
       </q-card>
     </div>-->
    <dialogue :initialDialogue=initialDialogue></dialogue>
+   <div v-if="obj" >test</div>
   </div>
 </template>
 
@@ -994,7 +995,7 @@ export default {
         { src: 'https://lh3.googleusercontent.com/cZOqWu1tjBSfBAXQj8PrMjcqx_nuthx5e56onMP_85ly94vTWO1FIfdKzV2guKzsAHyROfIuScQcqMzVBPIVrjlu6E_tNNTgPPGA-IhrR4rU2RZRabApUXpWSphCYE2wdEtlGB9up5AD2y_yeXOJM1vHFdlFIs2mqcpwnujNQNz2xZ_5cksn43_uel8fiGqL117T05OtXTXWuBWqAf4W2Ne4ylmtua68LFW_NXcEwmXhFMufwame7C8j6CD0OiqG9ceYFZDJ13YUwP6nfVRxrlAoaMx-6_PIpSOxjtIZJ5ALb3QooKQ6epSNhYuJnTqubAvUZxIYe3Cy49BwJbiKPZgDL2dSG_eE9_wElWRMFQbGC3jozoGsjLB8kWQvCsVv-_KWSi4Ljn6yc8JfxNK7TW5AaV1AJN_ywpoefj6xsT-9jE6qAE5iBKINp10rr_uREhBow2YLGApMhg5BwR9OoFUB8tARLuxdGWxmhLASAnxQz8rwChpyTFgXbVTarAxSNuphDwW7Pid_WsIfbf6jXOG4nnwyfKjhXQcTd9hdo8-F7EwTgL-82H2kLChLw34okVV3NKOImVSBxD2kuIJP2X4HAswgQlnPsrcuLKByTud_lBdRUe1_9oBy_d9PNi1hWxTH13Ik-otg6VD16bA1ZRcgEwwTvVRHl0QbSOgwiqLfSle6Ify7vg=w600-h400-no' },
         { src: 'https://lh3.googleusercontent.com/1eJrr5M-na3_pNZcF0FxBrAzwJxpsXz46uicidLTlhLd6qKNa5fhR9dTMC4f2W7ppv1xnL5434ZxY4sJ2GrVpCl6WQAxyjZLttgyRKjxq_tzck0QeBmp_A4Dhr-o4YL3_d88dfTgrfxqilzg2IABdHojhJLF-tC9Y8jaxuqKuRDw5NxiyJWOAbfbdOmnluSuhSJrMAtOoJ09H76YGDUL_e-OsRRMMy57dk5j7cJKBfPqCFoIQithimJgdSk_mO72u5K3AKsr_n6XwnO5B2ZHxxa1xXdZPXV0nC9Xyza2fT7LMxkPA2s_htEz9Gp3R4G_7whcdOXMFJSosNpubNb0lHdeQGNt1dTbUMkECdltYpPOsjZovfYcHHzf-QyiTWrZeEJ-QxoC_kFLSeKgpt2XvfDgmA6DCzkg6_cXJmv7-Gslb6rv8K-wSB4JMtPBkxPI-uRMPWoU0HTj6Yrq7bhHj8LqfikHlBK6KwX36QzYptrwZelCMZPssvknBZdnT4-47TNPJHtFivDiNfW-ps6-bR9wGGp4dv-aAChBkaklszs4BtvAnOcEVL2DT-qDEmc05q8umPEvd_SffrWtTg0KUZ-gd2YH3aHWE_UkNbYuIGSEMj7A5NqLti0_N04Sw4hnf8R_W8QxkIpmnyBl_haM3OaJArzswCHWDvuapaaCcjDtTU3Cz6-aLQ=w600-h400-no' }
       ], */
-      Obj: '',
+      Obj: Store.state.carInventory,
       initialDialogue: false
       /* hover: ['no-shadow', 'no-shadow', 'no-shadow', 'no-shadow', 'no-shadow', 'no-shadow'],
        hiLight: [
@@ -1047,7 +1048,7 @@ export default {
       this.Obj = Store.getters.getCarInventory
     },
     timeOut () {
-      setTimeout(function () { this.slowGetter() }.bind(this), 10000)
+      setTimeout(function () { this.slowGetter() }.bind(this), 100)
     }
   },
   mounted () {
@@ -1058,7 +1059,9 @@ export default {
     layout () {
       return this.$q.screen.lt.sm ? 'dense' : (this.$q.screen.lt.md ? 'comfortable' : 'loose')
     },
-    ...mapState,
+    ...mapState([
+      'carInventory'
+    ]),
     ...mapMutations([
       'setCarInventory',
       'getCarInventory'

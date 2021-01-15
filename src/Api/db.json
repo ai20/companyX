@@ -1,4 +1,36 @@
 {
+  "MA": [
+    {
+      "vin": "123456",
+      "year": 2015,
+      "make": "TOYOTA",
+      "model": "HIGHLANDER",
+      "manufacturer": "GENERAL MOTORS",
+      "engine": "L4, 2.4L; DOHC; 16V; DI; FFV",
+      "trim": "LTZ",
+      "transmission": "AUTOMATIC"
+    },
+    {
+      "vin": "654321",
+      "year": 2015,
+      "make": "CHEVROLET",
+      "model": "EQUINOX",
+      "manufacturer": "GENERAL MOTORS",
+      "engine": "L4, 2.4L; DOHC; 16V; DI; FFV",
+      "trim": "LTZ",
+      "transmission": "AUTOMATIC"
+    },
+    {
+      "vin": "111111",
+      "year": 2018,
+      "make": "NISSAN",
+      "model": "ROGUE",
+      "manufacturer": "GENERAL MOTORS",
+      "engine": "L4, 2.4L; DOHC; 16V; DI; FFV",
+      "trim": "LTZ",
+      "transmission": "AUTOMATIC"
+    }
+  ],
   "cars": [
     {
       "status": {

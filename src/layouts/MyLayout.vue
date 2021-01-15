@@ -215,17 +215,7 @@ export default {
     navigate () {
       // eslint-disable-next-line no-console
       console.log(this.$router)
-      // console.log(this.model)
       this.$router.push(this.model)
-      // this.$router.push('/List')
-      // console.log(this.$router)
-      // this.$router.go(1)
-      // router.go(1)
-      // console.log(this.$router.go('/Buy/list'))
-      // console.log(router)
-      // router.go('/Buy/list')
-      // console.log(this.$route.router)
-      // this.$router.router[0].children.push({ name: 'List' })
     },
     onScroll (info) {
       // this.scrollInfo = info

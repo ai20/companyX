@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/store/CarVin/actions.js" line="11" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="7e8cd2df-e045-47e8-80bb-8bf490f7e4b3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.quasar/client-entry.js" beforeDir="false" afterPath="$PROJECT_DIR$/.quasar/client-entry.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/cards/cards.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/cards/cards.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/CarInventory/actions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/CarInventory/actions.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/CarVin/actions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/CarVin/actions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CompanyX/.idea/carzum.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CompanyX/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CompanyX/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CompanyX/.quasar/client-entry.js" beforeDir="false" afterPath="$PROJECT_DIR$/../CompanyX/.quasar/client-entry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CompanyX/src/Api/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/../CompanyX/src/Api/db.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CompanyX/src/components/cards/cards.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../CompanyX/src/components/cards/cards.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CompanyX/src/layouts/MyLayout.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../CompanyX/src/layouts/MyLayout.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CompanyX/src/pages/Credit/Loan.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../CompanyX/src/pages/Credit/Loan.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CompanyX/src/pages/Sell/SellOrTrade.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../CompanyX/src/pages/Sell/SellOrTrade.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CompanyX/src/store/CarInventory/actions.js" beforeDir="false" afterPath="$PROJECT_DIR$/../CompanyX/src/store/CarInventory/actions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CompanyX/src/store/CarVin/actions.js" beforeDir="false" afterPath="$PROJECT_DIR$/../CompanyX/src/store/CarVin/actions.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/node_modules/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,120 +21,155 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FavoritesManager">
-    <favorites_list name="carzum" />
+    <favorites_list name="carzum">
+      <favorite_root url="file://$PROJECT_DIR$/src/pages/Sell/SellOrTrade.vue" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+    </favorites_list>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pages/Sell/SellOrTrade.vue">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="373" column="44" selection-start-line="373" selection-start-column="44" selection-end-line="373" selection-end-column="44" />
-              <folding>
-                <element signature="n#style#0;n#q-carousel-control#0;n#template#0;n#q-carousel#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#0;n#q-carousel-control#0;n#template#0;n#q-carousel#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#q-form#0;n#div#1;n#div#0;n#q-carousel-control#0;n#template#0;n#q-carousel#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#!!top" />
-                <element signature="e#11857#11890#0" expanded="true" />
-                <element signature="e#12484#12882#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/layouts/MyLayout.vue">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="403">
-              <caret line="243" column="44" selection-start-line="243" selection-start-column="44" selection-end-line="243" selection-end-column="44" />
-              <folding>
-                <element signature="e#116#413#0" />
-                <element signature="e#421#595#0" />
-                <element signature="n#style#0;n#q-img#0;n#q-toolbar#0;n#q-header#0;n#q-layout#0;n#template#0;n#!!top" expanded="true" />
-                <element signature="e#1034#3480#0" />
-                <element signature="n#style#0;n#h6#0;n#div#0;n#q-toolbar#0;n#q-footer#0;n#q-layout#0;n#template#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/miniComponents/Cards/altercards.vue">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="1040" column="19" selection-start-line="1040" selection-start-column="19" selection-end-line="1040" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/router/routes.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Api/cars.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1560">
-              <caret line="104" column="12" selection-start-line="104" selection-start-column="12" selection-end-line="104" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/cards/cards.vue">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="1049" column="67" selection-start-line="1049" selection-start-column="67" selection-end-line="1049" selection-end-column="67" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#q-card-section#0;n#q-card#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-                <element signature="e#47914#47957#0" expanded="true" />
-                <element signature="e#48238#48704#0" />
-                <element signature="e#48794#72657#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/store/CarInventory/actions.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="25" selection-start-line="25" selection-end-line="27" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Api/db.json.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/store/CarVin/actions.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="62">
-              <caret line="8" column="9" selection-start-line="7" selection-end-line="15" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Api/vinDecoder.json">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="vertical" split-proportion="0.9">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../CompanyX/src/pages/Credit/Loan.vue">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1920">
+                  <caret line="273" column="12" selection-start-line="273" selection-start-column="12" selection-end-line="273" selection-end-column="12" />
+                  <folding>
+                    <element signature="n#style#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                    <element signature="n#div#0;n#div#0;n#template#0;n#!!top" />
+                    <element signature="n#style#0;n#q-carousel-control#0;n#template#0;n#q-carousel#0;n#div#0;n#div#1;n#div#0;n#template#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#0;n#q-carousel-control#0;n#template#0;n#q-carousel#0;n#div#0;n#div#1;n#div#0;n#template#0;n#!!top" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../CompanyX/src/i18n/index.js">
+              <provider selected="true" editor-type-id="text-editor" />
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../CompanyX/src/layouts/MyLayout.vue">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1332">
+                  <caret line="216" column="31" selection-start-line="216" selection-start-column="31" selection-end-line="216" selection-end-column="31" />
+                  <folding>
+                    <element signature="e#116#413#0" />
+                    <element signature="e#421#595#0" />
+                    <element signature="n#style#0;n#q-img#0;n#q-toolbar#0;n#q-header#0;n#q-layout#0;n#template#0;n#!!top" expanded="true" />
+                    <element signature="e#1034#3480#0" />
+                    <element signature="n#style#0;n#h6#0;n#div#0;n#q-toolbar#0;n#q-footer#0;n#q-layout#0;n#template#0;n#!!top" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/../CompanyX/src/pages/Sell/SellOrTrade.vue">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="-2313">
+                  <caret line="60" column="54" selection-start-line="60" selection-start-column="54" selection-end-line="60" selection-end-column="54" />
+                  <folding>
+                    <element signature="n#style#0;n#q-carousel-control#0;n#template#0;n#q-carousel#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#1;n#div#0;n#q-carousel-control#0;n#template#0;n#q-carousel#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#0;n#div#0;n#q-form#0;n#div#1;n#div#0;n#q-carousel-control#0;n#template#0;n#q-carousel#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#!!top" />
+                    <element signature="e#11857#11890#0" expanded="true" />
+                    <element signature="e#12484#12882#0" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../CompanyX/src/components/cards/cards.vue">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="-1485">
+                  <caret line="30" column="81" lean-forward="true" selection-start-line="30" selection-start-column="81" selection-end-line="30" selection-end-column="81" />
+                  <folding>
+                    <element signature="n#style#0;n#div#0;n#q-card-section#0;n#q-card#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                    <element signature="e#2839#47824#0" />
+                    <element signature="e#47914#47957#0" expanded="true" />
+                    <element signature="e#48238#48704#0" />
+                    <element signature="e#48794#72657#0" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../CompanyX/src/Api/db.json">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="465">
+                  <caret line="52" column="16" selection-start-line="52" selection-start-column="16" selection-end-line="52" selection-end-column="16" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../CompanyX/src/store/CarVin/getters.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="-8">
+                  <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../CompanyX/src/store/CarVin/actions.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="-8">
+                  <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../CompanyX/src/store/CarInventory/actions.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="60">
+                  <caret line="4" column="41" lean-forward="true" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/../CompanyX/src/pages/Sell/SellOrTrade.vue">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="3">
+                  <caret line="60" column="98" selection-start-line="60" selection-start-column="98" selection-end-line="60" selection-end-column="98" />
+                  <folding>
+                    <element signature="n#style#0;n#q-carousel-control#0;n#template#0;n#q-carousel#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#1;n#div#0;n#q-carousel-control#0;n#template#0;n#q-carousel#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#0;n#div#0;n#q-form#0;n#div#1;n#div#0;n#q-carousel-control#0;n#template#0;n#q-carousel#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#!!top" />
+                    <element signature="e#11857#11890#0" expanded="true" />
+                    <element signature="e#12484#12882#0" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -144,9 +181,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>dialog</find>
-      <find>table</find>
-      <find>on-fire</find>
       <find>on_</find>
       <find>Tab</find>
       <find>Table</find>
@@ -157,7 +191,6 @@
       <find>'QCard',</find>
       <find>q-bar</find>
       <find>Luxury</find>
-      <find>accept</find>
       <find>cars</find>
       <find>CarZum</find>
       <find>Zum</find>
@@ -173,6 +206,10 @@
       <find>click</find>
       <find>Click</find>
       <find>to</find>
+      <find>auto</find>
+      <find>show</find>
+      <find>accept</find>
+      <find>carousel</find>
       <find>console</find>
     </findStrings>
     <replaceStrings>
@@ -187,13 +224,11 @@
     </dirStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../CompanyX" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/components/Table/Details/Details.vue" />
-        <option value="$PROJECT_DIR$/src/components/Table/Inspection/Inspection.vue" />
         <option value="$PROJECT_DIR$/src/components/Featured/Featured.vue" />
         <option value="$PROJECT_DIR$/src/components/vertical_tabs/tabs/GreatOnGas.vue" />
         <option value="$PROJECT_DIR$/src/components/vertical_tabs/tabs/NewerStock.vue" />
@@ -229,25 +264,26 @@
         <option value="$PROJECT_DIR$/src/store/CarInventory/state.js" />
         <option value="$PROJECT_DIR$/src/Api/cars.json" />
         <option value="$PROJECT_DIR$/src/pages/Buy/Buy.vue" />
-        <option value="$PROJECT_DIR$/src/pages/Credit/Loan.vue" />
         <option value="$PROJECT_DIR$/src/pages/Index.vue" />
         <option value="$PROJECT_DIR$/src/store/CarVin/carVin.js" />
         <option value="$PROJECT_DIR$/src/store/CarVin/state.js" />
         <option value="$PROJECT_DIR$/src/store/CarVin/mutations.js" />
         <option value="$PROJECT_DIR$/src/store/CarVin/getters.js" />
         <option value="$PROJECT_DIR$/.eslintrc.js" />
-        <option value="$PROJECT_DIR$/src/pages/Sell/SellOrTrade.vue" />
         <option value="$PROJECT_DIR$/src/components/miniComponents/Cards/altercards.vue" />
-        <option value="$PROJECT_DIR$/src/layouts/MyLayout.vue" />
-        <option value="$PROJECT_DIR$/src/store/CarVin/actions.js" />
-        <option value="$PROJECT_DIR$/src/components/cards/cards.vue" />
-        <option value="$PROJECT_DIR$/src/store/CarInventory/actions.js" />
         <option value="$PROJECT_DIR$/src/Api/db.json.js" />
+        <option value="$PROJECT_DIR$/src/components/cards/cards.vue" />
+        <option value="$PROJECT_DIR$/src/store/CarVin/actions.js" />
+        <option value="$PROJECT_DIR$/src/store/CarInventory/actions.js" />
+        <option value="$PROJECT_DIR$/src/Api/db.json" />
+        <option value="$PROJECT_DIR$/src/pages/Sell/SellOrTrade.vue" />
+        <option value="$PROJECT_DIR$/src/layouts/MyLayout.vue" />
+        <option value="$PROJECT_DIR$/src/pages/Credit/Loan.vue" />
+        <option value="$PROJECT_DIR$/../CompanyX/src/Api/db.json" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1920" />
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="width" value="1920" />
     <option name="height" value="1080" />
   </component>
@@ -263,18 +299,50 @@
           <expand>
             <path>
               <item name="carzum" type="b2602c69:ProjectViewProjectNode" />
-              <item name="carzum" type="462c0819:PsiDirectoryNode" />
+              <item name="CompanyX" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="carzum" type="b2602c69:ProjectViewProjectNode" />
-              <item name="carzum" type="462c0819:PsiDirectoryNode" />
+              <item name="CompanyX" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="carzum" type="b2602c69:ProjectViewProjectNode" />
-              <item name="carzum" type="462c0819:PsiDirectoryNode" />
+              <item name="CompanyX" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="carzum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CompanyX" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="carzum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CompanyX" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="i18n" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="carzum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CompanyX" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="i18n" type="462c0819:PsiDirectoryNode" />
+              <item name="en-us" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="carzum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CompanyX" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="store" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="carzum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CompanyX" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="store" type="462c0819:PsiDirectoryNode" />
+              <item name="CarInventory" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -294,6 +362,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -512,15 +581,15 @@
       <workItem from="1588174884486" duration="6460000" />
       <workItem from="1595882429835" duration="4000" />
       <workItem from="1601493657996" duration="2550000" />
-      <workItem from="1610314977361" duration="44363000" />
+      <workItem from="1610314977361" duration="73621000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1063913000" />
+    <option name="totallyTimeSpent" value="1093171000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1920" y="27" width="1920" height="971" extended-state="6" />
+    <frame x="0" y="27" width="1920" height="971" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" sideWeight="0.50143677" side_tool="true" weight="0.12966916" />
@@ -538,7 +607,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3289941" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50213444" side_tool="true" weight="0.17278107" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49786553" visible="true" weight="0.5281437" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49786553" visible="true" weight="0.22634731" />
       <window_info anchor="bottom" id="Command Line Tools Console" order="12" weight="0.3289941" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -572,31 +641,20 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/assets/4.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/5.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/17.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/store/module-example/state.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/store/module-example/mutations.js">
+    <entry file="file://$PROJECT_DIR$/../CompanyX/src/store/module-example/mutations.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/store/module-example/index.js">
+    <entry file="file://$PROJECT_DIR$/../CompanyX/src/store/module-example/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="7" selection-start-column="7" selection-end-column="7" />
@@ -607,49 +665,46 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/Buy/buy.vue" />
-    <entry file="file://$PROJECT_DIR$/src/assets/home/1.jpg">
+    <entry file="file://$PROJECT_DIR$/../CompanyX/src/assets/home/1.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/app.styl">
+    <entry file="file://$PROJECT_DIR$/../CompanyX/src/css/app.styl">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/Warranty/Warranty.vue">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/Error404.vue">
+    <entry file="file://$PROJECT_DIR$/../CompanyX/src/pages/Warranty/Warranty.vue">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/assets/carZumSM.png" />
-    <entry file="file://$PROJECT_DIR$/src/assets/6.jpg">
+    <entry file="file://$PROJECT_DIR$/../CompanyX/src/assets/6.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/home/4.jpg">
+    <entry file="file://$PROJECT_DIR$/../CompanyX/src/assets/home/4.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/home/5.png">
+    <entry file="file://$PROJECT_DIR$/../CompanyX/src/assets/home/5.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/package-lock.json">
+    <entry file="file://$PROJECT_DIR$/../CompanyX/package-lock.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3060" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.postcssrc.js">
+    <entry file="file://$PROJECT_DIR$/../CompanyX/.postcssrc.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/.stylintrc">
+    <entry file="file://$PROJECT_DIR$/../CompanyX/.stylintrc">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/vertical_tabs/tabs/AllStock.vue">
+    <entry file="file://$PROJECT_DIR$/../CompanyX/src/components/vertical_tabs/tabs/AllStock.vue">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
+    <entry file="file://$PROJECT_DIR$/../CompanyX/package.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/babel.config.js">
+    <entry file="file://$PROJECT_DIR$/../CompanyX/babel.config.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/router/index.js">
+    <entry file="file://$PROJECT_DIR$/../CompanyX/src/router/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <folding>
@@ -658,19 +713,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/Credit/Loan.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="n#div#0;n#div#0;n#template#0;n#!!top" />
-            <element signature="n#style#0;n#q-carousel-control#0;n#template#0;n#q-carousel#0;n#div#0;n#div#1;n#div#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#q-carousel-control#0;n#template#0;n#q-carousel#0;n#div#0;n#div#1;n#div#0;n#template#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/store/index.js">
+    <entry file="file://$PROJECT_DIR$/../CompanyX/src/store/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="11" selection-start-line="11" selection-end-line="11" />
@@ -680,17 +723,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/Index.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="43" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/store/module-example/actions.js">
+    <entry file="file://$PROJECT_DIR$/../CompanyX/src/store/module-example/actions.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/store/module-example/getters.js">
+    <entry file="file://$PROJECT_DIR$/../CompanyX/src/store/module-example/getters.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
@@ -700,7 +736,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/vertical_tabs/VerticalTabs.vue">
+    <entry file="file://$PROJECT_DIR$/../CompanyX/src/components/vertical_tabs/VerticalTabs.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-414">
           <caret line="40" column="10" selection-start-line="40" selection-start-column="10" selection-end-line="40" selection-end-column="42" />
@@ -712,7 +748,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/vertical_tabs/tabs/CurrentStock.vue">
+    <entry file="file://$PROJECT_DIR$/../CompanyX/src/components/vertical_tabs/tabs/CurrentStock.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6">
           <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
@@ -722,14 +758,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/store/CarVin/state.js">
+    <entry file="file://$PROJECT_DIR$/../CompanyX/src/store/CarVin/state.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/store/CarVin/carVin.js">
+    <entry file="file://$PROJECT_DIR$/../CompanyX/src/store/CarVin/carVin.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="10" lean-forward="true" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
@@ -739,21 +775,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/store/CarVin/getters.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/store/CarVin/mutations.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/Buy/Buy.vue">
+    <entry file="file://$PROJECT_DIR$/../CompanyX/src/pages/Buy/Buy.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="382">
           <caret line="162" column="53" selection-start-line="162" selection-start-column="53" selection-end-line="162" selection-end-column="53" />
@@ -770,10 +792,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/store/CarInventory/getters.js">
+    <entry file="file://$PROJECT_DIR$/../CompanyX/src/store/CarInventory/mutations.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="42" selection-start-column="42" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../CompanyX/quasar.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1656">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../CompanyX/.eslintrc.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="52" column="74" lean-forward="true" selection-start-line="52" selection-start-column="74" selection-end-line="52" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../CompanyX/src/App.vue">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/store/CarInventory/carInventory.js">
+    <entry file="file://$PROJECT_DIR$/../CompanyX/src/router/routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../CompanyX/src/Api/vinDecoder.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="12" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../CompanyX/src/components/miniComponents/Cards/altercards.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="1040" column="19" selection-start-line="1040" selection-start-column="19" selection-end-line="1040" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../CompanyX/src/store/CarInventory/carInventory.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="10" />
@@ -783,57 +849,122 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/store/CarInventory/mutations.js">
+    <entry file="file://$PROJECT_DIR$/../CompanyX/src/Api/cars.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="42" selection-start-column="42" selection-end-column="42" />
+        <state relative-caret-position="60">
+          <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/store/CarInventory/state.js">
+    <entry file="file://$PROJECT_DIR$/../CompanyX/src/store/CarInventory/state.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+        <state relative-caret-position="30">
+          <caret line="2" column="10" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/quasar.conf.js">
+    <entry file="file://$PROJECT_DIR$/../CompanyX/src/store/CarInventory/getters.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1656">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../CompanyX/src/store/CarVin/mutations.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../CompanyX/src/store/CarVin/getters.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../CompanyX/src/store/CarVin/actions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../CompanyX/src/pages/Error404.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../CompanyX/src/pages/Index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9268">
+          <caret line="22" column="43" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../CompanyX/src/assets/cars/forsale/1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../CompanyX/src/components/cards/cards.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1485">
+          <caret line="30" column="81" lean-forward="true" selection-start-line="30" selection-start-column="81" selection-end-line="30" selection-end-column="81" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#q-card-section#0;n#q-card#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="e#2839#47824#0" />
+            <element signature="e#47914#47957#0" expanded="true" />
+            <element signature="e#48238#48704#0" />
+            <element signature="e#48794#72657#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../CompanyX/db.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../CompanyX/src/store/CarInventory/actions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="41" lean-forward="true" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../CompanyX/src/Api/db.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="52" column="16" selection-start-line="52" selection-start-column="16" selection-end-line="52" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../CompanyX/src/i18n/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../CompanyX/src/i18n/en-us/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="34" lean-forward="true" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.eslintrc.js">
+    <entry file="file://$PROJECT_DIR$/../CompanyX/src/pages/Credit/Loan.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="52" column="74" lean-forward="true" selection-start-line="52" selection-start-column="74" selection-end-line="52" selection-end-column="74" />
+        <state relative-caret-position="1920">
+          <caret line="273" column="12" selection-start-line="273" selection-start-column="12" selection-end-line="273" selection-end-column="12" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#style#0;n#q-carousel-control#0;n#template#0;n#q-carousel#0;n#div#0;n#div#1;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#q-carousel-control#0;n#template#0;n#q-carousel#0;n#div#0;n#div#1;n#div#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/miniComponents/Cards/altercards.vue">
+    <entry file="file://$PROJECT_DIR$/../CompanyX/src/layouts/MyLayout.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="1040" column="19" selection-start-line="1040" selection-start-column="19" selection-end-line="1040" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.vue">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Api/cars.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1560">
-          <caret line="104" column="12" selection-start-line="104" selection-start-column="12" selection-end-line="104" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/layouts/MyLayout.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="243" column="44" selection-start-line="243" selection-start-column="44" selection-end-line="243" selection-end-column="44" />
+        <state relative-caret-position="1332">
+          <caret line="216" column="31" selection-start-line="216" selection-start-column="31" selection-end-line="216" selection-end-column="31" />
           <folding>
             <element signature="e#116#413#0" />
             <element signature="e#421#595#0" />
@@ -844,17 +975,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/router/routes.js">
+    <entry file="file://$PROJECT_DIR$/../CompanyX/src/pages/Sell/SellOrTrade.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/Sell/SellOrTrade.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="373" column="44" selection-start-line="373" selection-start-column="44" selection-end-line="373" selection-end-column="44" />
+        <state relative-caret-position="-2313">
+          <caret line="60" column="54" selection-start-line="60" selection-start-column="54" selection-end-line="60" selection-end-column="54" />
           <folding>
             <element signature="n#style#0;n#q-carousel-control#0;n#template#0;n#q-carousel#0;n#div#0;n#template#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#q-carousel-control#0;n#template#0;n#q-carousel#0;n#div#0;n#template#0;n#!!top" expanded="true" />
@@ -871,39 +995,6 @@
           </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Api/vinDecoder.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/store/CarVin/actions.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="62">
-          <caret line="8" column="9" selection-start-line="7" selection-end-line="15" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/cards/cards.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="1049" column="67" selection-start-line="1049" selection-start-column="67" selection-end-line="1049" selection-end-column="67" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#q-card-section#0;n#q-card#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="e#47914#47957#0" expanded="true" />
-            <element signature="e#48238#48704#0" />
-            <element signature="e#48794#72657#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/store/CarInventory/actions.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="25" selection-start-line="25" selection-end-line="27" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Api/db.json.js">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

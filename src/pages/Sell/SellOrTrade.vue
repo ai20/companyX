@@ -54,24 +54,22 @@
               <q-input
                 class="col-md-8"
                 filled
-                v-model="name"
+                v-model="data.plate"
                 label="LICENSE PLATE"
                 hint="Name and surname"
                 lazy-rules
-                :rules="[ val => val && val.length > 0 || 'Please type something']"
+                :rules="[ val => val && val.length > 5 && val.length < 7|| 'A vin has 6 characters']"
               />
 
-              <q-input
+              <q-select
                 class="col-md-3"
                 filled
                 type="number"
-                v-model="age"
+                v-model="data.state"
+                :options="state"
                 label="STATE"
                 lazy-rules
-                :rules="[
-          val => val !== null && val !== '' || 'Please type your age',
-          val => val > 0 && val < 100 || 'Please type a real age'
-        ]"
+                :rules="[ val => val && val.length > 0 || 'Please pick a state']"
               />
               <div class="col-md-12">
                 <q-btn label="Submit" type="submit" @click="carousel = true" color="primary"/>
@@ -320,16 +318,20 @@ export default {
   },
   data () {
     return {
-      lorem: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
       slide: 1,
       img: '../assets/four.jpg',
       autoplay: false,
       show: false,
-      name: null,
-      age: null,
       accept: false,
       model: 'one',
-      carousel: false
+      carousel: false,
+      state: [
+        'MA', 'NY', 'RI', 'ME'
+      ],
+      data: {
+        state: null,
+        vin: ''
+      }
     }
   },
   methods: {
@@ -356,7 +358,9 @@ export default {
         message: 'Submitted'
       })
       // eslint-disable-next-line no-console
-      console.log(this.getVehicle('zzzzz'))
+      console.log(this.data)
+      // this.data.state = 'mass'
+      this.getVehicle(this.data)
     },
     onReset () {
       this.name = null
@@ -365,14 +369,11 @@ export default {
     },
     getVehicle (data) {
       Store.dispatch('setCarInfo', data)
-      // return Store.getters.getCarInfo
       return setTimeout(function () { this.slowGetter() }.bind(this), 100)
     },
     slowGetter (data) {
-      // console.log('get')
-      // console.log(Store)
       // eslint-disable-next-line no-console
-      console.log(Store.getters.getCarInfo)
+      // console.log(Store.getters.getCarInfo)
       return Store.getters.getCarInfo
     }
   },
