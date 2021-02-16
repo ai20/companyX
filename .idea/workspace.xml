@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e8cd2df-e045-47e8-80bb-8bf490f7e4b3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../CompanyX/.idea/carzum.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../CompanyX/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CompanyX/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CompanyX/.quasar/client-entry.js" beforeDir="false" afterPath="$PROJECT_DIR$/../CompanyX/.quasar/client-entry.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CompanyX/src/Api/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/../CompanyX/src/Api/db.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CompanyX/src/components/cards/cards.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../CompanyX/src/components/cards/cards.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CompanyX/src/layouts/MyLayout.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../CompanyX/src/layouts/MyLayout.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CompanyX/src/pages/Credit/Loan.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../CompanyX/src/pages/Credit/Loan.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CompanyX/src/pages/Sell/SellOrTrade.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../CompanyX/src/pages/Sell/SellOrTrade.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CompanyX/src/store/CarInventory/actions.js" beforeDir="false" afterPath="$PROJECT_DIR$/../CompanyX/src/store/CarInventory/actions.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CompanyX/src/store/CarVin/actions.js" beforeDir="false" afterPath="$PROJECT_DIR$/../CompanyX/src/store/CarVin/actions.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/node_modules/" />
@@ -65,7 +57,7 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/../CompanyX/src/pages/Sell/SellOrTrade.vue">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="-2313">
@@ -92,7 +84,7 @@
             <entry file="file://$PROJECT_DIR$/../CompanyX/src/components/cards/cards.vue">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="-1485">
-                  <caret line="30" column="81" lean-forward="true" selection-start-line="30" selection-start-column="81" selection-end-line="30" selection-end-column="81" />
+                  <caret line="30" column="81" selection-start-line="30" selection-start-column="81" selection-end-line="30" selection-end-column="81" />
                   <folding>
                     <element signature="n#style#0;n#div#0;n#q-card-section#0;n#q-card#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
                     <element signature="e#2839#47824#0" />
@@ -122,11 +114,11 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="false">
+          <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/../CompanyX/src/store/CarVin/actions.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-8">
-                  <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+                <state relative-caret-position="60">
+                  <caret line="4" column="37" lean-forward="true" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
                 </state>
               </provider>
             </entry>
@@ -134,8 +126,8 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/../CompanyX/src/store/CarInventory/actions.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="60">
-                  <caret line="4" column="41" lean-forward="true" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+                <state relative-caret-position="150">
+                  <caret line="10" column="54" lean-forward="true" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
                 </state>
               </provider>
             </entry>
@@ -209,8 +201,8 @@
       <find>auto</find>
       <find>show</find>
       <find>accept</find>
-      <find>carousel</find>
       <find>console</find>
+      <find>carousel</find>
     </findStrings>
     <replaceStrings>
       <replace>Comapny X</replace>
@@ -229,7 +221,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/components/Featured/Featured.vue" />
         <option value="$PROJECT_DIR$/src/components/vertical_tabs/tabs/GreatOnGas.vue" />
         <option value="$PROJECT_DIR$/src/components/vertical_tabs/tabs/NewerStock.vue" />
         <option value="$PROJECT_DIR$/src/components/vertical_tabs/tabs/fourByFour.vue" />
@@ -280,10 +271,12 @@
         <option value="$PROJECT_DIR$/src/layouts/MyLayout.vue" />
         <option value="$PROJECT_DIR$/src/pages/Credit/Loan.vue" />
         <option value="$PROJECT_DIR$/../CompanyX/src/Api/db.json" />
+        <option value="$PROJECT_DIR$/../CompanyX/src/store/CarVin/actions.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="1920" />
     <option name="width" value="1920" />
     <option name="height" value="1080" />
   </component>
@@ -343,6 +336,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="store" type="462c0819:PsiDirectoryNode" />
               <item name="CarInventory" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="carzum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CompanyX" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="store" type="462c0819:PsiDirectoryNode" />
+              <item name="CarVin" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -581,15 +581,15 @@
       <workItem from="1588174884486" duration="6460000" />
       <workItem from="1595882429835" duration="4000" />
       <workItem from="1601493657996" duration="2550000" />
-      <workItem from="1610314977361" duration="73621000" />
+      <workItem from="1610314977361" duration="75051000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1093171000" />
+    <option name="totallyTimeSpent" value="1094601000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="27" width="1920" height="971" extended-state="7" />
+    <frame x="1920" y="27" width="1920" height="971" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" sideWeight="0.50143677" side_tool="true" weight="0.12966916" />
@@ -884,13 +884,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../CompanyX/src/store/CarVin/actions.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
-          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../CompanyX/src/pages/Error404.vue">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -907,7 +900,7 @@
     <entry file="file://$PROJECT_DIR$/../CompanyX/src/components/cards/cards.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1485">
-          <caret line="30" column="81" lean-forward="true" selection-start-line="30" selection-start-column="81" selection-end-line="30" selection-end-column="81" />
+          <caret line="30" column="81" selection-start-line="30" selection-start-column="81" selection-end-line="30" selection-end-column="81" />
           <folding>
             <element signature="n#style#0;n#div#0;n#q-card-section#0;n#q-card#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
             <element signature="e#2839#47824#0" />
@@ -920,13 +913,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../CompanyX/db.json">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../CompanyX/src/store/CarInventory/actions.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="41" lean-forward="true" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../CompanyX/src/Api/db.json">
       <provider selected="true" editor-type-id="text-editor">
@@ -993,6 +979,20 @@
             <element signature="e#11857#11890#0" expanded="true" />
             <element signature="e#12484#12882#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../CompanyX/src/store/CarInventory/actions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="54" lean-forward="true" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../CompanyX/src/store/CarVin/actions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="37" lean-forward="true" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
         </state>
       </provider>
     </entry>

@@ -3,8 +3,6 @@ import axios from 'axios'
 export { setCarInfo }
 
 function setCarInfo (context, data) {
-  // eslint-disable-next-line no-console
-  console.log(data)
   axios.get('http://localhost:3000/' + data.state, {
     params: {
       q: data.plate
